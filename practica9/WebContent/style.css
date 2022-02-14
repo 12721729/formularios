@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.naranja[type=submit] {
+	background-color: #f57900;
+	height: 40px;
+	width: 300px;
+	color: white;
+}
+
+.centro {
+	position:relative;
+	left: 120px;
+}
+.verde[type=submit] {
+	background-color:#66bf0b;
+	height: 40px;
+	width: 350px;
+	color: white;
+}
